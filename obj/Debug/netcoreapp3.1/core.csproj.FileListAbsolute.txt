@@ -1,0 +1,11 @@
+/opt/projects/core/bin/Debug/netcoreapp3.1/core
+/opt/projects/core/bin/Debug/netcoreapp3.1/core.deps.json
+/opt/projects/core/bin/Debug/netcoreapp3.1/core.runtimeconfig.json
+/opt/projects/core/bin/Debug/netcoreapp3.1/core.runtimeconfig.dev.json
+/opt/projects/core/bin/Debug/netcoreapp3.1/core.dll
+/opt/projects/core/bin/Debug/netcoreapp3.1/core.pdb
+/opt/projects/core/obj/Debug/netcoreapp3.1/core.csprojAssemblyReference.cache
+/opt/projects/core/obj/Debug/netcoreapp3.1/core.AssemblyInfoInputs.cache
+/opt/projects/core/obj/Debug/netcoreapp3.1/core.AssemblyInfo.cs
+/opt/projects/core/obj/Debug/netcoreapp3.1/core.dll
+/opt/projects/core/obj/Debug/netcoreapp3.1/core.pdb
